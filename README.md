@@ -1,9 +1,8 @@
 ## Vista 1
-# Objetivo
+### Objetivo
 
-El desarrollo de esta pagina tiene como objetivo posicionar un  
-elemento inline a block, utilizando la propiedad display.
+El desarrollo de esta pagina tiene como objetivo posicionar un elemento inline a block, utilizando la propiedad display.
 
-#Fuentes consultadas
+### Fuentes consultadas
 - [Laboratoria LMS] : https://lms.laboratoria.la/cohorts/lim-2017-09-bc-core-pm/courses/interactive-site/00-html-and-css/03-boxmodel-and-display
 - [Curso HTML] : https://www.youtube.com/watch?v=JJyc90CqzDA
