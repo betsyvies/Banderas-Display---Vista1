@@ -1,4 +1,4 @@
-## Vista 1
+## Banderas display-Vista 1
 ### Objetivo
 
 El desarrollo de esta pagina tiene como objetivo posicionar un elemento inline a block, utilizando la propiedad display.
